@@ -61,6 +61,8 @@ main{margin: 0%;padding: 0%; padding-bottom: 10px;
     justify-items: center;
     font-family: 'Handlee', cursive;
     font-weight: bolder;
-
+}
+.button{
+    justify-content: end;
 }
     
