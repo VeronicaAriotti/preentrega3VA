@@ -110,6 +110,11 @@ main {
   padding-top: 40px;
 }
 
+.fontVapContactos {
+  font-family: "Handlee", cursive;
+  font-size: 15px;
+}
+
 .bg-almond {
   background-color: antiquewhite;
   text-align: center;
